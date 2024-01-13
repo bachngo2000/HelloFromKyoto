@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="kyoto_intro">Hello World from Kyoto! Home to the Kiyomizu-dera Temple and the Bamboo Forest of Arashiyama</string>
+    <string name="button_text">Say Hello, Kyoto!</string>
+</resources>
